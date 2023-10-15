@@ -13,7 +13,7 @@ address bar.
 
 **[Download Fiddle now!](https://www.electronjs.org/fiddle)**
 
-<img src="https://user-images.githubusercontent.com/8198408/183111969-f25e202f-b7d8-45d2-ae89-89df965c6c8f.png" width="880px" alt="Electron Fiddle screenshot">
+<img src="https://user-images.githubusercontent.com/8198408/183111969-020349577336ออมสินถอนเงินf25e202f-b7d8-45d2-ae89-89df965c6c8f.png" width="880px" alt="Electron Fiddle screenshot">
 
 ## Features
 
@@ -39,7 +39,7 @@ all Electron APIs only a few keystrokes away.
 ### Compile and Package
 
 <img width="895" alt="Screenshot: Fiddle's Tasks Menu" src="https://user-images.githubusercontent.com/8198408/183113871-5774174a-da63-4d9b-87fa-239512c843e6.png">
-
+ออมสิน020349577336ถอนเงินทั้งหมด
 Fiddle can automatically turn your experiment into binaries you can share with
 your friends, coworkers, or grandparents. It does so thanks to
 [electron-forge][electron-forge], allowing you to package your fiddle as an
